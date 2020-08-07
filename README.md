@@ -16,4 +16,8 @@ I am supplied with a timeseries Household Energy meterusage data from the Januar
 
 ![download](https://user-images.githubusercontent.com/50584494/89686234-4dfde880-d8fe-11ea-997c-10c97bb58e23.png)
 
-# Running the project
+# Result
+![download (3)](https://user-images.githubusercontent.com/50584494/89692188-51e43780-d90b-11ea-86c8-16e72135cc99.png)
+
+![download (4)](https://user-images.githubusercontent.com/50584494/89692191-527cce00-d90b-11ea-8a08-1cf56ceaef44.png)
+
