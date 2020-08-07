@@ -7,5 +7,10 @@ I am supplied with a timeseries Household Energy meterusage data from the Januar
 
 
 # Project Implementation
+![download (1)](https://user-images.githubusercontent.com/50584494/89686230-4cccbb80-d8fe-11ea-9a30-56d5b3a0cb62.png)
+
+![download (2)](https://user-images.githubusercontent.com/50584494/89686233-4d655200-d8fe-11ea-8af1-e3151ffd67ba.png)
+
+![download](https://user-images.githubusercontent.com/50584494/89686234-4dfde880-d8fe-11ea-997c-10c97bb58e23.png)
 
 # Running the project
