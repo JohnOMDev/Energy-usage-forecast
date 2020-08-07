@@ -1,9 +1,12 @@
 # Project Overview
 Application of Neural Network Long short Time Memory and Arima on house house meterusage timeseries data.
 
+According to wikipedia, Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data.
+
+![The-structure-of-the-LSTM-unit](https://user-images.githubusercontent.com/50584494/89687062-c618de00-d8ff-11ea-88c4-23c925e5a035.png)
 
 # Project Tasks
-I am supplied with a timeseries Household Energy meterusage data from the January 1 to 31st
+I am supplied with a timeseries Household Energy meterusage data from the January 1 to 31st which contain 2944 data points. 
 
 
 # Project Implementation
