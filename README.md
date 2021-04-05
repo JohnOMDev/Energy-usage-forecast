@@ -6,7 +6,7 @@ According to wikipedia, Long short-term memory is an artificial recurrent neural
 ![The-structure-of-the-LSTM-unit](https://user-images.githubusercontent.com/50584494/89687062-c618de00-d8ff-11ea-88c4-23c925e5a035.png)
 
 # Project Tasks
-I am supplied with a timeseries Household Energy meterusage data from the January 1 to 31st which contain 2944 data points. 
+I was supplied with a timeseries Household Energy meterusage data from the January 1 to 31st which contain 2944 data points. 
 
 
 # Project Implementation
